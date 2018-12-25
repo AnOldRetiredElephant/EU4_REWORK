@@ -13,7 +13,6 @@ base_manpower = 2
 is_city = yes
 estate = estate_dhimmi
 add_core = EPI
-add_core = BYZ
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -25,6 +24,7 @@ discovered_by = eastern
 discovered_by = western
 
 
+1399.1.1 = { add_core = BYZ }
 1479.1.1 = { owner = TUR
 	controller = TUR 
 	add_core = TUR }
