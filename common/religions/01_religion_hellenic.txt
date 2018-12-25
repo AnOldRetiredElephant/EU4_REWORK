@@ -1,0 +1,30 @@
+hellenic = {
+		defender_of_faith = yes
+        flags_with_emblem_percentage = 33
+        flag_emblem_index_range = { 28 100 }
+        greek = {
+                icon = 29
+                color = { 19 171 244 }
+                country = {
+                        development_cost = -0.05
+                        tolerance_own = 2
+                }
+                province = {
+                        local_missionary_strength = 0
+                }
+                heretic = { }
+        }
+		
+		roman = {
+                icon = 30
+                color = { 40 126 168 }
+                country = {
+                        development_cost = -0.1
+                        tolerance_own = 1
+                }
+                province = {
+                        local_missionary_strength = 0
+                }
+                heretic = { }
+        }
+}
