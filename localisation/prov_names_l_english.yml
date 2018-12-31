@@ -3633,6 +3633,7 @@
  PROV4649:0 "Mayo"
  PROV4650:0 "Opata"
  PROV4651:0 "Aetolia"
+ PROV4652:0 "Balkans"
  test_province_name:0 "Test Province Name"
  other_province_name:0 "Other Province Name"
  rand_prov_straits_of:0 "Straits of $prov$"

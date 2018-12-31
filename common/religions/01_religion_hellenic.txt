@@ -1,10 +1,10 @@
 hellenic = {
-		defender_of_faith = yes
+		defender_of_faith = no
         flags_with_emblem_percentage = 33
         flag_emblem_index_range = { 28 100 }
-        greek = {
+        olympic = {
                 icon = 29
-                color = { 19 171 244 }
+                color = { 100 0 80 }
                 country = {
                         development_cost = -0.05
                         tolerance_own = 2
@@ -17,7 +17,7 @@ hellenic = {
 		
 		roman = {
                 icon = 30
-                color = { 40 126 168 }
+                color = { 123 15 102 }
                 country = {
                         development_cost = -0.1
                         tolerance_own = 1

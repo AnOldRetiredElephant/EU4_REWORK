@@ -241,12 +241,6 @@ vassal = {
 }
 
 # Ottoman vassal
-guarantee = {
-	first = TUR
-	second = RAG
-	start_date = 1444.1.1
-	end_date = 1528.1.1
-}
 
 vassal = {
 	first = TUR
@@ -270,4 +264,27 @@ dependency = {
 	second = ATH
 	start_date = 1444.1.1
 	end_date = 1458.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = TUR
+	second = RAG
+	start_date = 1458.1.1
+	end_date = 1500.1.1
+}
+
+vassal = {
+	first = HUN
+	second = RAG
+	start_date = 1444.1.1
+	end_date = 1458.1.1
+}
+
+#Albania guaranteed by Venice
+guarantee = {
+	first = VEN
+	second = ALB
+	start_date = 1444.1.1
+	end_date = 1468.1.1
 }
